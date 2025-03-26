@@ -1,6 +1,6 @@
 package io.github.arkosammy12.monkeydatabase
 
-object Main {
+object MonkeyDatabase {
 
     @JvmStatic
     fun main(args: Array<String>) {
